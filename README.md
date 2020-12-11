@@ -1,8 +1,8 @@
-# Node.js & Passport Login
+# Notings app
 
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
+This is an application which has login system with notes
 
-### Version: 2.0.0
+### Version: 1.0.0
 
 ### Usage
 
@@ -15,7 +15,7 @@ $ npm start
 # Or run with Nodemon
 $ npm run dev
 
-# Visit http://localhost:5000
+# Visit http://localhost:3000
 ```
 
 ### MongoDB
