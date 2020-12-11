@@ -1,4 +1,4 @@
-dbPassword = 'mongodb+srv://zaidajani:healthysmile@cluster0.0kpc5.mongodb.net/notes-app'
+dbPassword = 'mongodb+srv://<name>:<password>@<cluster>'
 
 module.exports = {
     mongoURI: dbPassword
