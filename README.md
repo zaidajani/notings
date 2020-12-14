@@ -21,3 +21,9 @@ $ npm run dev
 ### MongoDB
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+## preview
+
+visit <a href="https://notings.perfactors.com/">notings.perfactors.com</a>
+
+<bold>Enjoy your powerful application</bold>
