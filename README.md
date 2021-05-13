@@ -22,7 +22,7 @@ $ npm run dev
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas.
 
-## preview
+## Preview
 
 ![demo.png](./static/demo.png)
 
