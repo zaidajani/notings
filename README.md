@@ -1,6 +1,6 @@
 # Notings app
 
-This is an application which has login system with notes
+This is an application which has login system with notes.
 
 ### Version: 1.0.0
 
