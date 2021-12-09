@@ -26,6 +26,6 @@ Open "config/keys.js" and add your MongoDB URI, local or Atlas.
 
 ![demo.png](./demo5.png)
 
-visit <a href="https://notings.herokuapp.com/">https://notings.herokuapp.com/</a> For preview
+visit <a href="https://notings.herokuapp.com/">https://notings.herokuapp.com/</a> For preview.
 
 # Enjoy your powerful Application
